@@ -4,7 +4,7 @@ A responsive frontend clone of the Myntra e-commerce website created to practice
 
 📷 Preview
 
-![alt text](_H__CSS_Myntra-clone_index.html.png)
+![alt text](Myntra-clone.png)
 
 🛠️ Tech Stack
 
